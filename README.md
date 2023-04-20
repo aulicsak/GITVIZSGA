@@ -5,4 +5,8 @@ git checkout console - átváltás a console ágra
 git add . - hozzáadtuk az összes változtatást
 git commit - felkerülnek a helyi repositoryba a módosított fájlok
 git git remote set-url origin https://github.com/aulicsak/GITVIZSGA.git - hozzáadtam a távoli repositorymhoz
-git push - felküldtem a változásokat a távoli rpositorymba
+git add . - mert módosult a readme
+git commit - megint mert elrontottam a readme.md-t
+git add . - mert módosult a readme
+git commit - megint mert elrontottam a readme.md-t
+git push --all - felküldtem a változásokat a távoli rpositorymba
